@@ -1,0 +1,1 @@
+plyr.weapon_mode = !plyr.weapon_mode;

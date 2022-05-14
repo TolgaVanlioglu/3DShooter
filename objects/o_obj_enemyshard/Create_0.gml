@@ -1,0 +1,1 @@
+fade_spd = irandom(10)/100 + 0.01;
